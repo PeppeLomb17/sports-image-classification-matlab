@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB autosave and temporary files
+*.asv
+*.mat
+*.mlx
+*.m~
+*.tmp
+*.bak
+*.fig
+
+# Environment folders
+.vscode/
+.idea/
+.Rhistory
+.RData
+.Rproj.user/
