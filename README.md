@@ -1,8 +1,6 @@
 # Sports Image Classification – Neural Computing Project
 
-**Author:** Giuseppe Lombardia  
-**Degree:** MSc in Data Science for Management – University of Catania  
-**Course:** Neural Computing (Prof. Sebastiano Battiato)  
+**Author:** Giuseppe Lombardia   
 **Environment:** MATLAB (Deep Learning Toolbox)
 
 ---
